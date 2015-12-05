@@ -1,0 +1,25 @@
+"*":
+  editor:
+    invisibles: {}
+    backUpBeforeSaving: true
+    fontSize: 18
+  core:
+    autoHideMenuBar: true
+    themes: [
+      "one-dark-ui"
+      "monokai-seti"
+    ]
+  "exception-reporting":
+    userId: "2aff55e1-7882-6b7c-386f-b74466be4c0f"
+  welcome:
+    showOnStartup: false
+  "one-dark-ui": {}
+  minimap:
+    absoluteMode: true
+  "todo-show": {}
+  "atom-terminal":
+    surpressDirectoryArgument: false
+    setWorkingDirectory: false
+  "tree-view": {}
+  "sync-settings":
+    _analyticsUserId: "5f995b29-2f4b-4659-8ac8-19797b11d03e"
